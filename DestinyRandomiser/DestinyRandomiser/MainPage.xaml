@@ -8,8 +8,33 @@
             Padding="30,0"
             Spacing="25">
             
-            <Label Text="Destiny Randomiser!!!" />
+            <Label
+                Text="Destiny Randomiser!!!"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level2"/>
+
+            <Label
+                Text="Username"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level3"/>
             
+            <Entry Placeholder="Enter Username..." />
+
+            <Label
+                Text="Password"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level3"/>
+
+            <Entry Placeholder="Enter Password..." />
+
+            <Button
+                x:Name="LoginBtn"
+                Text="Login" 
+                Clicked="LoginPress"
+                HorizontalOptions="Fill" />
+
+
+
 
         </VerticalStackLayout>
     </ScrollView>

@@ -28,6 +28,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = DestinyRandomiser.AppShell
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[C:/Users/Maraaj/Source/Repos/Destiny2-Randomiser/DestinyRandomiser/DestinyRandomiser/LoadoutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DestinyRandomiser.LoadoutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = LoadoutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = LoadoutPage.xaml
+
 [C:/Users/Maraaj/Source/Repos/Destiny2-Randomiser/DestinyRandomiser/DestinyRandomiser/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DestinyRandomiser.MainPage.xaml

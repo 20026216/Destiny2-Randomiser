@@ -1036,3 +1036,4 @@ C:\Users\Maraaj\Source\Repos\Destiny2-Randomiser\DestinyRandomiser\DestinyRandom
 C:\Users\Maraaj\Source\Repos\Destiny2-Randomiser\DestinyRandomiser\DestinyRandomiser\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\Maraaj\Source\Repos\Destiny2-Randomiser\DestinyRandomiser\DestinyRandomiser\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Maraaj\Source\Repos\Destiny2-Randomiser\DestinyRandomiser\DestinyRandomiser\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Maraaj\Source\Repos\Destiny2-Randomiser\DestinyRandomiser\DestinyRandomiser\obj\Debug\net8.0-android\DestinyRandomiser.sourcelink.json
