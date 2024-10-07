@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DestinyRandomiser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+07a41f11c09775734d3f2a5e358622630f671c6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+9fcbcde1c939f21783eaa464713f96077c32f782")]
 [assembly: System.Reflection.AssemblyProductAttribute("DestinyRandomiser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DestinyRandomiser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

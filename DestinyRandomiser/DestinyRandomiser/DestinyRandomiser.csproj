@@ -57,6 +57,12 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\save.png" />
+	  <None Remove="Resources\Images\settings.png" />
+	  <None Remove="Resources\Images\Tpose.PNG" />
+	</ItemGroup>
+
+	<ItemGroup>
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
@@ -66,10 +72,22 @@
 	  <Compile Update="LoadoutPage.xaml.cs">
 	    <DependentUpon>LoadoutPage.xaml</DependentUpon>
 	  </Compile>
+	  <Compile Update="SavedLoadouts.xaml.cs">
+	    <DependentUpon>SavedLoadouts.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="SettingsPage.xaml.cs">
+	    <DependentUpon>SettingsPage.xaml</DependentUpon>
+	  </Compile>
 	</ItemGroup>
 
 	<ItemGroup>
 	  <MauiXaml Update="LoadoutPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="SavedLoadouts.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="SettingsPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

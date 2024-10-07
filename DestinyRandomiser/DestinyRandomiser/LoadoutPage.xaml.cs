@@ -57,16 +57,27 @@ public partial class LoadoutPage : ContentPage
     private void OnShakeDetected(object sender, AccelerometerChangedEventArgs e)
     {
 
-        count++;
+       /* count++;
 
         if (count == 1)
             CounterBtn.Text = $"Clicked {count} time";
         else
             CounterBtn.Text = $"Clicked {count} times";
 
-        SemanticScreenReader.Announce(CounterBtn.Text);
+        SemanticScreenReader.Announce(CounterBtn.Text);*/
     }
 
+
+    private void OnSettingsClicked(object sender, EventArgs e)
+    {
+        Navigation.PushAsync(new SettingsPage());
+    }
+
+
+    private void OnSaveClicked(object sender, EventArgs e)
+    {
+        Navigation.PushAsync(new SavedLoadouts());
+    }
     //public interface IAccelerometer
 
     /*private void OnShakeDetected(object sender, EventArgs e)

@@ -2077,3 +2077,11 @@ C:\Users\Frenet\source\repos\Destiny2-Randomiser\DestinyRandomiser\DestinyRandom
 C:\Users\Frenet\source\repos\Destiny2-Randomiser\DestinyRandomiser\DestinyRandomiser\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\Frenet\source\repos\Destiny2-Randomiser\DestinyRandomiser\DestinyRandomiser\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Frenet\source\repos\Destiny2-Randomiser\DestinyRandomiser\DestinyRandomiser\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Frenet\source\repos\Destiny2-Randomiser\DestinyRandomiser\DestinyRandomiser\obj\Debug\net8.0-android\resizetizer\r\drawable\settings.png
+C:\Users\Frenet\source\repos\Destiny2-Randomiser\DestinyRandomiser\DestinyRandomiser\obj\Debug\net8.0-android\resizetizer\r\mipmap-hdpi\appicon_round.png
+C:\Users\Frenet\source\repos\Destiny2-Randomiser\DestinyRandomiser\DestinyRandomiser\obj\Debug\net8.0-android\resizetizer\r\mipmap-mdpi\appicon_round.png
+C:\Users\Frenet\source\repos\Destiny2-Randomiser\DestinyRandomiser\DestinyRandomiser\obj\Debug\net8.0-android\resizetizer\r\mipmap-xhdpi\appicon_round.png
+C:\Users\Frenet\source\repos\Destiny2-Randomiser\DestinyRandomiser\DestinyRandomiser\obj\Debug\net8.0-android\resizetizer\r\mipmap-xxhdpi\appicon_round.png
+C:\Users\Frenet\source\repos\Destiny2-Randomiser\DestinyRandomiser\DestinyRandomiser\obj\Debug\net8.0-android\resizetizer\r\mipmap-xxxhdpi\appicon_round.png
+C:\Users\Frenet\source\repos\Destiny2-Randomiser\DestinyRandomiser\DestinyRandomiser\obj\Debug\net8.0-android\resizetizer\r\drawable\save.png
+C:\Users\Frenet\source\repos\Destiny2-Randomiser\DestinyRandomiser\DestinyRandomiser\obj\Debug\net8.0-android\resizetizer\r\drawable\tpose.PNG
