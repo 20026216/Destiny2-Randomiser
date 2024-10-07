@@ -18,11 +18,69 @@
                      Priority="0"
                      Clicked="OnSettingsClicked"/>
     </ContentPage.ToolbarItems>
-    
-    <VerticalStackLayout>
-        
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="Auto" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Icons and Labels -->
+        <VerticalStackLayout Grid.Column="0" VerticalOptions="Center">
+            
+            <Image Source="subclass.svg" HorizontalOptions="Center" WidthRequest="50" HeightRequest="50" />
+            <Label Text="Subclass" TextColor="White" HorizontalOptions="Center" Margin="0,0,0,60"/>
+
+            <Image Source="kinetic.svg" HorizontalOptions="Center" WidthRequest="50" HeightRequest="50" />
+            <Label Text="Kinetic" TextColor="White" HorizontalOptions="Center" Margin="0,0,0,60"/>
+
+            <Image Source="energy.svg" HorizontalOptions="Center" WidthRequest="50" HeightRequest="50" />
+            <Label Text="Energy" TextColor="White" HorizontalOptions="Center" Margin="0,0,0,60"/>
+
+            <Image Source="power.svg" HorizontalOptions="Center" WidthRequest="50" HeightRequest="50" />
+            <Label Text="Power" TextColor="White" HorizontalOptions="Center"/>
+
+
+        </VerticalStackLayout>
+
+        <VerticalStackLayout Grid.Column="2" VerticalOptions="Center">
+            
+            <Image Source="helmet.svg" HorizontalOptions="Center" WidthRequest="50" HeightRequest="50" />
+            <Label Text="Helmet" TextColor="White" HorizontalOptions="Center" Margin="0,0,0,60" />
+
+            <Image Source="chest.svg" HorizontalOptions="Center" WidthRequest="50" HeightRequest="50" />
+            <Label Text="Chest" TextColor="White" HorizontalOptions="Center" Margin="0,0,0,60" />
+
+            <Image Source="boots.svg" HorizontalOptions="Center" WidthRequest="50" HeightRequest="50" />
+            <Label Text="Boots" TextColor="White" HorizontalOptions="Center" Margin="0,0,0,60" />
+
+            <Image Source="classarmor.svg" HorizontalOptions="Center" WidthRequest="50" HeightRequest="50" />
+            <Label Text="Class Armor" TextColor="White" HorizontalOptions="Center" />
+
+        </VerticalStackLayout>
+
+        <VerticalStackLayout Grid.Column="1" VerticalOptions="Center">
+            <Button 
+            Text="Tap to Randomise" 
+            HorizontalOptions="Center" 
+            VerticalOptions="Center"
+            Clicked="OnRandomiseButtonClicked"
+            Margin="30,0,0,0"
+            FontSize="18"
+            Padding="10"/>
+
+            <ImageButton Source="save.png"
+                     WidthRequest="50"
+                     HeightRequest="50"
+                     BackgroundColor="Transparent"
+                     Margin="30,600,0,0"
+                     Clicked="OnSaveClicked"/>
+
+        </VerticalStackLayout>
 
 
 
-    </VerticalStackLayout>
+    </Grid>
+
 </ContentPage>

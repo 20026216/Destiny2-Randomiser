@@ -57,8 +57,17 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\boots.svg" />
+	  <None Remove="Resources\Images\chest.svg" />
+	  <None Remove="Resources\Images\classarmor.svg" />
+	  <None Remove="Resources\Images\energy.svg" />
+	  <None Remove="Resources\Images\heavy.svg" />
+	  <None Remove="Resources\Images\helmet.svg" />
+	  <None Remove="Resources\Images\kinetic.svg" />
+	  <None Remove="Resources\Images\power.svg" />
 	  <None Remove="Resources\Images\save.png" />
 	  <None Remove="Resources\Images\settings.png" />
+	  <None Remove="Resources\Images\subclass.svg" />
 	  <None Remove="Resources\Images\Tpose.PNG" />
 	</ItemGroup>
 
