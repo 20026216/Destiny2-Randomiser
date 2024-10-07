@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maraaj\\Source\\Repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\DestinyRandomiser.csproj": {}
+    "C:\\Users\\Frenet\\source\\repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\DestinyRandomiser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maraaj\\Source\\Repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\DestinyRandomiser.csproj": {
+    "C:\\Users\\Frenet\\source\\repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\DestinyRandomiser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maraaj\\Source\\Repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\DestinyRandomiser.csproj",
+        "projectUniqueName": "C:\\Users\\Frenet\\source\\repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\DestinyRandomiser.csproj",
         "projectName": "DestinyRandomiser",
-        "projectPath": "C:\\Users\\Maraaj\\Source\\Repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\DestinyRandomiser.csproj",
-        "packagesPath": "C:\\Users\\Maraaj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maraaj\\Source\\Repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\obj\\",
+        "projectPath": "C:\\Users\\Frenet\\source\\repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\DestinyRandomiser.csproj",
+        "packagesPath": "C:\\Users\\Frenet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Frenet\\source\\repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Maraaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Frenet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -38,11 +38,11 @@
             "targetAlias": "net8.0-android",
             "projectReferences": {}
           },
-          "net8.0-ios17.0": {
+          "net8.0-ios17.5": {
             "targetAlias": "net8.0-ios",
             "projectReferences": {}
           },
-          "net8.0-maccatalyst17.0": {
+          "net8.0-maccatalyst17.5": {
             "targetAlias": "net8.0-maccatalyst",
             "projectReferences": {}
           },
@@ -55,6 +55,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -67,16 +72,16 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.82, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.82, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0, )",
+              "version": "[8.0.8, )",
               "autoReferenced": true
             }
           },
@@ -99,9 +104,9 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         },
-        "net8.0-ios17.0": {
+        "net8.0-ios17.5": {
           "targetAlias": "net8.0-ios",
           "dependencies": {
             "Microsoft.Extensions.Logging.Debug": {
@@ -110,16 +115,16 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.82, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.82, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0, )",
+              "version": "[8.0.8, )",
               "autoReferenced": true
             }
           },
@@ -142,9 +147,9 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         },
-        "net8.0-maccatalyst17.0": {
+        "net8.0-maccatalyst17.5": {
           "targetAlias": "net8.0-maccatalyst",
           "dependencies": {
             "Microsoft.Extensions.Logging.Debug": {
@@ -153,16 +158,16 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.82, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.82, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0, )",
+              "version": "[8.0.8, )",
               "autoReferenced": true
             }
           },
@@ -186,7 +191,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-windows10.0.19041": {
           "targetAlias": "net8.0-windows10.0.19041.0",
@@ -197,11 +202,11 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.82, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.82, )"
             }
           },
           "imports": [
@@ -218,7 +223,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.19041.31, 10.0.19041.31]"
+              "version": "[10.0.19041.34, 10.0.19041.34]"
             }
           ],
           "frameworkReferences": {
@@ -229,7 +234,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
