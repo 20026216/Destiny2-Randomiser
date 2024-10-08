@@ -61,14 +61,14 @@
         </VerticalStackLayout>
 
         <VerticalStackLayout Grid.Column="1" VerticalOptions="Center">
-            <Button 
+            <!--<Button 
             Text="Tap to Randomise" 
             HorizontalOptions="Center" 
             VerticalOptions="Center"
             Clicked="OnRandomiseButtonClicked"
             Margin="30,0,0,0"
             FontSize="18"
-            Padding="10"/>
+            Padding="10"/>-->
 
             <ImageButton Source="save.png"
                      WidthRequest="50"
