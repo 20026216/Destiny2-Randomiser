@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\frenet\\source\\repos\\Destiny2-Randomiser\\DestinyRandomiser\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{21132680-3526-4C15-B3EE-37E232D0F004}|DestinyRandomiser\\DestinyRandomiser.csproj|c:\\users\\frenet\\source\\repos\\destiny2-randomiser\\destinyrandomiser\\destinyrandomiser\\resources\\creds\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21132680-3526-4C15-B3EE-37E232D0F004}|DestinyRandomiser\\DestinyRandomiser.csproj|solutionrelative:destinyrandomiser\\resources\\creds\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21132680-3526-4C15-B3EE-37E232D0F004}|DestinyRandomiser\\DestinyRandomiser.csproj|c:\\users\\frenet\\source\\repos\\destiny2-randomiser\\destinyrandomiser\\destinyrandomiser\\loadoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21132680-3526-4C15-B3EE-37E232D0F004}|DestinyRandomiser\\DestinyRandomiser.csproj|solutionrelative:destinyrandomiser\\loadoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21132680-3526-4C15-B3EE-37E232D0F004}|DestinyRandomiser\\DestinyRandomiser.csproj|c:\\users\\frenet\\source\\repos\\destiny2-randomiser\\destinyrandomiser\\destinyrandomiser\\loadoutdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21132680-3526-4C15-B3EE-37E232D0F004}|DestinyRandomiser\\DestinyRandomiser.csproj|solutionrelative:destinyrandomiser\\loadoutdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21132680-3526-4C15-B3EE-37E232D0F004}|DestinyRandomiser\\DestinyRandomiser.csproj|c:\\users\\frenet\\source\\repos\\destiny2-randomiser\\destinyrandomiser\\destinyrandomiser\\loadoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{21132680-3526-4C15-B3EE-37E232D0F004}|DestinyRandomiser\\DestinyRandomiser.csproj|solutionrelative:destinyrandomiser\\loadoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21132680-3526-4C15-B3EE-37E232D0F004}|DestinyRandomiser\\DestinyRandomiser.csproj|c:\\users\\frenet\\source\\repos\\destiny2-randomiser\\destinyrandomiser\\destinyrandomiser\\apihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21132680-3526-4C15-B3EE-37E232D0F004}|DestinyRandomiser\\DestinyRandomiser.csproj|solutionrelative:destinyrandomiser\\apihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21132680-3526-4C15-B3EE-37E232D0F004}|DestinyRandomiser\\DestinyRandomiser.csproj|c:\\users\\frenet\\source\\repos\\destiny2-randomiser\\destinyrandomiser\\destinyrandomiser\\destinyrandomiser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21132680-3526-4C15-B3EE-37E232D0F004}|DestinyRandomiser\\DestinyRandomiser.csproj|solutionrelative:destinyrandomiser\\destinyrandomiser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21132680-3526-4C15-B3EE-37E232D0F004}|DestinyRandomiser\\DestinyRandomiser.csproj|c:\\users\\frenet\\source\\repos\\destiny2-randomiser\\destinyrandomiser\\destinyrandomiser\\savedloadouts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -22,37 +38,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "test.txt",
+              "DocumentMoniker": "C:\\Users\\frenet\\source\\repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\Resources\\creds\\test.txt",
+              "RelativeDocumentMoniker": "DestinyRandomiser\\Resources\\creds\\test.txt",
+              "ToolTip": "C:\\Users\\frenet\\source\\repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\Resources\\creds\\test.txt",
+              "RelativeToolTip": "DestinyRandomiser\\Resources\\creds\\test.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-08T06:58:05.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LoadoutPage.xaml",
               "DocumentMoniker": "C:\\Users\\frenet\\source\\repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\LoadoutPage.xaml",
               "RelativeDocumentMoniker": "DestinyRandomiser\\LoadoutPage.xaml",
               "ToolTip": "C:\\Users\\frenet\\source\\repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\LoadoutPage.xaml",
               "RelativeToolTip": "DestinyRandomiser\\LoadoutPage.xaml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-08T04:16:40.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "LoadoutPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\frenet\\source\\repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\LoadoutPage.xaml.cs",
+              "RelativeDocumentMoniker": "DestinyRandomiser\\LoadoutPage.xaml.cs",
+              "ToolTip": "C:\\Users\\frenet\\source\\repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\LoadoutPage.xaml.cs",
+              "RelativeToolTip": "DestinyRandomiser\\LoadoutPage.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:28:09.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LoadoutData.cs",
               "DocumentMoniker": "C:\\Users\\frenet\\source\\repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\LoadoutData.cs",
               "RelativeDocumentMoniker": "DestinyRandomiser\\LoadoutData.cs",
               "ToolTip": "C:\\Users\\frenet\\source\\repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\LoadoutData.cs",
               "RelativeToolTip": "DestinyRandomiser\\LoadoutData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T04:15:24.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "APIHandler.cs",
+              "DocumentMoniker": "C:\\Users\\frenet\\source\\repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\APIHandler.cs",
+              "RelativeDocumentMoniker": "DestinyRandomiser\\APIHandler.cs",
+              "ToolTip": "C:\\Users\\frenet\\source\\repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\APIHandler.cs",
+              "RelativeToolTip": "DestinyRandomiser\\APIHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:30:18.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DestinyRandomiser",
+              "DocumentMoniker": "C:\\Users\\frenet\\source\\repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\DestinyRandomiser.csproj",
+              "RelativeDocumentMoniker": "DestinyRandomiser\\DestinyRandomiser.csproj",
+              "ToolTip": "C:\\Users\\frenet\\source\\repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\DestinyRandomiser.csproj",
+              "RelativeToolTip": "DestinyRandomiser\\DestinyRandomiser.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T05:29:45.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SavedLoadouts.xaml",
               "DocumentMoniker": "C:\\Users\\frenet\\source\\repos\\Destiny2-Randomiser\\DestinyRandomiser\\DestinyRandomiser\\SavedLoadouts.xaml",
               "RelativeDocumentMoniker": "DestinyRandomiser\\SavedLoadouts.xaml",

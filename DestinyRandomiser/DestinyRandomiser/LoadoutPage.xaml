@@ -5,12 +5,6 @@
              BackgroundImageSource="tpose.png"
              Title="SHAKE TO RANDOMISE!!!">
     <ContentPage.ToolbarItems>
-        <!--<ToolbarItem IconImageSource="save.png" 
-                     Text="Save" 
-                     Order="Default"
-                     Priority="1"
-                     Clicked="OnSaveClicked"/>-->
-        
         
         <ToolbarItem IconImageSource="settings.png" 
                      Text="Settings" 
@@ -27,13 +21,13 @@
         </Grid.ColumnDefinitions>
 
         <!-- Icons and Labels -->
-        <VerticalStackLayout Grid.Column="0" VerticalOptions="Center">
+        <VerticalStackLayout Grid.Column="0" VerticalOptions="Center" Margin="20,0,0,0">
             
-            <Image Source="subclass.svg" HorizontalOptions="Center" WidthRequest="50" HeightRequest="50" />
+            <Image Source="subclass.svg"  HorizontalOptions="Center" WidthRequest="50" HeightRequest="50"  />
             <Label Text="Subclass" TextColor="White" HorizontalOptions="Center" Margin="0,0,0,60"/>
 
             <Image Source="kinetic.svg" HorizontalOptions="Center" WidthRequest="50" HeightRequest="50" />
-            <Label Text="Kinetic" TextColor="White" HorizontalOptions="Center" Margin="0,0,0,60"/>
+            <Label x:Name="Kinetic" Text="Kinetic" TextColor="White" HorizontalOptions="Center" Margin="0,0,0,60"/>
 
             <Image Source="energy.svg" HorizontalOptions="Center" WidthRequest="50" HeightRequest="50" />
             <Label Text="Energy" TextColor="White" HorizontalOptions="Center" Margin="0,0,0,60"/>
@@ -44,9 +38,9 @@
 
         </VerticalStackLayout>
 
-        <VerticalStackLayout Grid.Column="2" VerticalOptions="Center">
+        <VerticalStackLayout Grid.Column="2" VerticalOptions="Center" Margin="0,0,20,0">
             
-            <Image Source="helmet.svg" HorizontalOptions="Center" WidthRequest="50" HeightRequest="50" />
+            <Image Source="helmet.svg" HorizontalOptions="Center" WidthRequest="50" HeightRequest="50" BackgroundColor="AliceBlue" />
             <Label Text="Helmet" TextColor="White" HorizontalOptions="Center" Margin="0,0,0,60" />
 
             <Image Source="chest.svg" HorizontalOptions="Center" WidthRequest="50" HeightRequest="50" />
@@ -76,6 +70,16 @@
                      BackgroundColor="Transparent"
                      Margin="30,600,0,0"
                      Clicked="OnSaveClicked"/>
+
+            <Button 
+            x:Name="LoadButton"
+            Text="Tap to Load"
+            HorizontalOptions="Center" 
+            VerticalOptions="Center"
+            Clicked="OnLoadClicked"
+            Margin="30,0,0,0"
+            FontSize="18"
+            Padding="10"/>
 
         </VerticalStackLayout>
 
